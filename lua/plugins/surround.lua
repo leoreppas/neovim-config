@@ -1,5 +1,5 @@
 return {
-  "echasnovski/mini.surround",
+  "nvim-mini/mini.files",
   opts = {
     mappings = {
       add = "<leader>sa",
